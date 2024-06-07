@@ -40,7 +40,7 @@ The current notebook has a lot of exploratory code.  The final notebook will inc
 
 #### Outline of project
 
-[Link to notebook](https://github.com/rickhiggs/Capstone_Final/blob/main/CapstoneExplore02.ipynb)
+[Link to notebook](https://github.com/rickhiggs/Capstone_Final/blob/main/CapstoneFinal.ipynb)
 
 [![LogReg.png](https://github.com/rickhiggs/Capstone_Final/blob/main/images/LogReg.png)](https://github.com/rickhiggs/Capstone_Final/blob/main/images)
 
